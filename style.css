@@ -1,0 +1,82 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.promo-block-title {
+    color: #e33333;
+}
+
+.c10551 {
+    color: rgb(17, 17, 17);
+    font-family: "Microsoft YaHei", Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    background-color: rgb(255, 255, 255);
+}
+
+.c10578 {
+    color: rgb(17, 17, 17);
+    font-family: "Microsoft YaHei", Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    background-color: rgb(255, 255, 255);
+}
+
+.promo-block {
+    color: #f33a3a;
+    border: 0 solid #fb3b3b;
+}
+
+.collapse.navbar-collapse.nav-collapse {
+    border: 0 solid #f93838;
+}
+
+.col-sm-6 {
+    border: 0 solid #e04242;
+}
+
+.c5927 {
+    color: black;
+    width: 547px;
+    height: 357px;
+}
+
+.row {
+    display: table;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    width: 100%;
+}
+
+#viewDiv {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#info {
+  background-color: rgb(165, 182, 12);
+  opacity: 0.75;
+  color: rgb(255, 0, 0);
+  font-size: 18pt;
+  padding: 8px;
+  visibility: hidden;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-size: 38pt;
+
+}
+p{
+    color: rgb(255, 242, 0);
+    font-size: 18pt;
+}
+.div-a{ float:left;width:48%;border:1px solid #F00} 
+.div-b{ float:left;width:48%;border:1px solid #000} 
